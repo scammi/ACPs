@@ -1,6 +1,6 @@
-# ACP-XXX: Precompile for secp256r1 Curve Support
+# ACP-196: Precompile for secp256r1 Curve Support
 
-| ACP | XXX |
+| ACP | 196 |
 | :--- | :--- |
 | **Title** | Precompile for secp256r1 Curve Support |
 | **Author(s)** | [Santiago Cammi](https://github.com/scammi), [Arran Schlosberg](https://github.com/ARR4N)  |
