@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This proposal introduces a precompiled contract that performs signature verifications for the secp256r1 elliptic curve on Avalanche's C-Chain and Subnet-EVM chains. The precompile will be implemented at address `0x0000000000000000000000000000000000000100` and will enable native verification of P-256 signatures, significantly improving gas efficiency for biometric authentication systems, WebAuthn, and modern device-based signing mechanisms.
+This proposal introduces a precompiled contract that performs signature verifications for the secp256r1 elliptic curve on Avalanche's C-Chain. The precompile will be implemented at address `0x0200000000000000000000000000000000000006` and will enable native verification of P-256 signatures, significantly improving gas efficiency for biometric authentication systems, WebAuthn, and modern device-based signing mechanisms.
 
 ## Motivation
 
