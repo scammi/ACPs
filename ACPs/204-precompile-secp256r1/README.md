@@ -24,7 +24,7 @@ This ACP proposes implementing EIP-7212's secp256r1 precompiled contract to unlo
 
 The 100x gas cost reduction makes these use cases economically viable while maintaining the security properties institutions and users expect from their existing devices.
 
-## Specification◊
+## Specification
 
 This ACP implements [EIP-7212](https://eips.ethereum.org/EIPS/eip-7212) for secp256r1 signature verification on Avalanche. The specification follows EIP-7212 exactly, with the precompiled contract deployed at address `0x0200000000000000000000000000000000000006`.
 
